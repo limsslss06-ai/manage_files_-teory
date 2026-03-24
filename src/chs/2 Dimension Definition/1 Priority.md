@@ -9,6 +9,14 @@
 | framework | 逻辑/算法层        | 只能依赖 core                |
 | modules   | 能力/系统层        | 依赖 core + framework        |
 
+## 判定
+|外来库使用数量| 层级 |
+|-------------|--------------------|
+| 0           | core        |
+| 1           | framework   |
+| N           | modules     |
+
+
 ## 铁律
 
 - 依赖只能**向下**：modules → framework → core。
