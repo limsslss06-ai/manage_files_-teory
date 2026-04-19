@@ -11,6 +11,7 @@
 | api       | 对外暴露的 API 入口       ||
 | backend   | 具体技术实现              ||
 | benchmark | 性能测试代码              ||
+| dispatch  | 调度策略                  ||
 | dto       | 数据传输对象              ||
 | enum      | 枚举定义                  ||
 | error     | 错误码/异常定义           ||
