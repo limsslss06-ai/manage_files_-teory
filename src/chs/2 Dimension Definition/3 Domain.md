@@ -17,8 +17,16 @@
 ### 第三方库
 
 |技术域    | 备注         ||
-|---------|-------------|------|
-| ffmpeg  |||
-| openmp  |||
-| openssl |||
-| sqlite |||
+|----------|-------------|------|
+| ffmpeg   |||
+| libzip   |||
+| opencl   |||
+| opengl   |||
+| openmp   |||
+| openssl  |||
+| postgres |||
+| rar      |||
+| sqlite   |||
+| vulkan   |||
+||||
+||||
