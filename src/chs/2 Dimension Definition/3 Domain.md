@@ -7,12 +7,12 @@
 
 |技术域 | 备注         ||
 |-------|-----------------|------|
-| none  | 零依赖，连标准库都没用||
-| std   | 语言标准库       |   |
-| posix | POSIX 接口      |   |
-| win32 | Windows API     |   |
-| linux | Linux 特有      |   |
-| mixed | 多依赖           |   |
+| none     | 零依赖，连标准库都没用||
+| standard | 语言标准库，部分语言使用 std 可能和原生库名称冲突       |   |
+| posix    | POSIX 接口      |   |
+| win32    | Windows API     |   |
+| linux    | Linux 特有      |   |
+| mixed    | 多依赖           |   |
 
 ### 第三方库
 
