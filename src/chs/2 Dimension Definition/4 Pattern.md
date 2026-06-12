@@ -20,7 +20,7 @@
 | interface | 抽象接口定义              ||
 | mapper    | 数据映射（O/RM、DTO ↔ Entity）||
 | model     | 数据模型/实体定义         ||
-| pipeline  | 流水线处理（责任链、过滤器） ||
+| pipeline  | 流水线处理（责任链） ||
 | policy    | 编译期策略                ||
 | template  | 模板文件                 ||
 | test      | 单元/集成测试            ||
